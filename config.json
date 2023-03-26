@@ -1,7 +1,7 @@
 {
     "TOKEN": "5849940634:AAHusO0JfGl7RDLvEYyfNXv_Akkj-b1FimE",
     "ON9BOT_TOKEN": "5049733075:AAHpNcVAmrHZVmQKttEI3P3Cl0fBTWU_hKQ",
-    "DB_URI": "mongodb+srv://Dip:123@cluster0.hd4yr.mongodb.net/Dip?retryWrites=true&w=majority",
+    "DB_URI": "postgres://sfajewji:cMs1nJ9gijrO3u1olYDL0KDsUiLgkgAR@rosie.db.elephantsql.com/sfajewji",
     "PROVIDER_TOKEN": "",
     "OWNER_ID": 1626505310,
     "ADMIN_GROUP_ID": 69420,
